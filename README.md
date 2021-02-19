@@ -21,3 +21,5 @@ config tailwind using the command
 ```
 $ npx tailwindcss init -p
 ```
+
+## 02: The Utility-First Workflow
