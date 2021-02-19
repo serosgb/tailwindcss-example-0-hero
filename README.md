@@ -22,4 +22,12 @@ config tailwind using the command
 $ npx tailwindcss init -p
 ```
 
+Run the project from now on with the command
+
+```
+npm run dev
+```
+
 ## 02: The Utility-First Workflow
+
+Using a set of tailwindcss classes to model a page
